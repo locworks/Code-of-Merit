@@ -1,2 +1,0 @@
-Polish translation
-placeholder file
